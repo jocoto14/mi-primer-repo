@@ -1,1 +1,1 @@
-print("Hola estoy en otro repo")
+print("Hola estoy editando dentro de GitHub")
