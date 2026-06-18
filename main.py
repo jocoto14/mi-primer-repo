@@ -42,11 +42,11 @@ def main():
         b = float(input("Ingrese el segundo numero: "))
 
         if opcion == "1":
-            print("Aca va la suma")
+            resultado = sumar(a,b)
         elif opcion == "2":
-            print("Aca va la resta")
+            resultado = restar(a,b)
         elif opcion == "3":
-            print("Aca va la multiplicacion")
+            resultado = multiplicar(a,b)
         else:
             resultado = dividir(a, b)
 
