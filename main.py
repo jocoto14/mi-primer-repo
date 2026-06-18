@@ -3,7 +3,7 @@ def sumar(a, b):
 
 
 def restar(a, b):
-    pass
+    return a - b
 
 
 def multiplicar(a, b):
