@@ -7,7 +7,7 @@ def restar(a, b):
 
 
 def multiplicar(a, b):
-    pass
+    return a * b
 
 
 def dividir(a, b):
